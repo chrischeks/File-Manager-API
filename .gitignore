@@ -1,0 +1,12 @@
+.tscache
+.baseDir.ts
+dist/
+node_modules/
+.env
+nbproject/
+public
+quabbly.key
+private
+downloads
+MyFolder
+MyFolder.zip
