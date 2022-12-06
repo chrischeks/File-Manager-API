@@ -47,7 +47,7 @@
     "nodemailer": "^4.7.0",
     "paystack": "^2.0.1",
     "q": "^1.4.1",
-    "qs": "^6.6.0",
+    "qs": "^6.6.1",
     "request": "^2.88.0",
     "swagger-ui-express": "^3.0.10",
     "validator": "^10.11.0",
